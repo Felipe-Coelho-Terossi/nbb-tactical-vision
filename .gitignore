@@ -1,0 +1,8 @@
+data/raw/*.mp4
+data/raw/*.avi
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
